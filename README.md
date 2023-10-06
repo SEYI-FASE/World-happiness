@@ -6,7 +6,6 @@ Using sql and selecting all fields listed below, I merged all tables from year 2
 
 Exploration, findings and visualizations were derived using tableau
 Interaction with visualization and overview can be viewed - [Visualizations](https://public.tableau.com/views/Worldhappinessrecords-2015-2023/Happiessscoresandranks?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 Checking through the dataset, I have picked the relevant columns that will be needed for this study which are:
 * Year
 * Country
